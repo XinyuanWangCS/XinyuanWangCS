@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XinyuanWangCS
 - 👀 I’m interested in Artificial Intelligence, especially Computer Vision and Natural Language Processing.
-- 🌱 I’m currently study at UCSD
+- 🌱 I graduated from CSU(China). I’m currently studying at UCSD.
 - 📫 How to reach me: xiw136@ucsd.edu
 
 <!---
