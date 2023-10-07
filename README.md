@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XinyuanWangCS
-- 👀 I’m interested in Artificial Intelligence, especially the cross field of Computer Vision and Natural Language Processing.
-- I am now working on text-to-image models advise by Prof. Zhiting Hu.
-- 🌱 I graduated from CSU(China). I’m currently studying at UCSD.
+- 👀 I’m interested in Artificial Intelligence, especially Natural Language Processing and Computer Vision (Unsupervised Learning and Generative models).
+- I am now working on LLM prompt optimization and LLM Agent advise by Prof. Zhiting Hu.
+- 🌱 I graduated from Central South University (Hunan, China). I’m currently studying at UCSD (California, USA).
 - 📫 How to reach me: xiw136@ucsd.edu
 
 <!---
